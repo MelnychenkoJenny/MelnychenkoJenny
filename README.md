@@ -1,11 +1,27 @@
-### Hi there 👋
+### Hi there, I'm Jenya 👋
 
-I'm an avid front-end developer. I have experience working with HTML, CSS, and JavaScript to build dynamic and responsive web applications. I am proficient in using React and React Native to create engaging user interfaces that deliver seamless experiences across multiple platforms. 
+👩‍💻 I'm switcher, embarking on my development journey and aspiring to become a professional in the field.
 
-Additionally, I have experience with Node.js and am familiar with Trello for project management. I am well-versed in Agile methodology (Scrum) and thrive in a collaborative team environment. My attention to detail allows me to deliver pixel-perfect designs that meet the highest standards of quality and aesthetics. 
+📖 Continuously learning and exploring new things to broaden my skills.
 
-I dream of becoming a professional and very soon it will be so. ☺️
+🤝 Enjoy collaborating in a team and helping other developers.
 
-<i class="fa-brands fa-html5" style="color: #dd4b25;"></i>
+🐱 Responsible and with a sense of humor (I love memes).
+
+### My stack
+
+![HTML](https://img.shields.io/badge/HTML-5-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-3-blue?style=for-the-badge&logo=css3)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Rest API](https://img.shields.io/badge/REST_API-0096D6?style=for-the-badge&logo=rest&logoColor=white)
+
+&nbsp;&nbsp;
+### My GitHub Stats
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MelnychenkoJenny&show_icons=true&theme=darcula)
 
