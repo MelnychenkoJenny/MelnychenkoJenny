@@ -1,4 +1,8 @@
-### Hi there, I'm Jenya 👋
+<h1 align="center">Hi there, I'm Jenya  👋</h1>
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
+</div>
 
 👩‍💻 I'm switcher, embarking on my development journey and aspiring to become a professional in the field.
 
@@ -7,6 +11,8 @@
 🤝 Enjoy collaborating in a team and helping other developers.
 
 🐱 Responsible and with a sense of humor (I love memes).
+
+📫 How to reach me: [melnichenkojenny@gmail.com](mailto:melnichenkojenny@gmail.com)
 
 ### My stack
 
@@ -19,6 +25,16 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Rest API](https://img.shields.io/badge/REST_API-0096D6?style=for-the-badge&logo=rest&logoColor=white)
+
+&nbsp;&nbsp;
+
+Евгения Мельниченко#7522
+### Socials
+<p align="left">
+  <a href="https://discord.com/users/Евгения Мельниченко#7522" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
+  <a href="https://www.linkedin.com/in/yevheniia-melnychenko/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+  <a href="https://t.me/MelnychenkoJenny" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/telegram.svg"/></a>
+</p>
 
 &nbsp;&nbsp;
 ### My GitHub Stats
